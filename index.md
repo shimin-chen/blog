@@ -1,5 +1,6 @@
 ---
-title: Welcome to my blog
+layout: home
+title: "Mass spec & proteomics stuff"
 ---
 
 
